@@ -1,4 +1,0 @@
-该服务端支持 RTP_OVER_UDP/RTP_OVER_TCP
-只支持H264视频传输
-已测试 稳定运行
-该服务端SDK只可用于直播
